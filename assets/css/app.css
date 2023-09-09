@@ -37,6 +37,10 @@
     transform: scale(1.5);
   }
 }
+.center_line{
+  text-decoration: line-through !important;
+  text-decoration-color: #F61529 !important;
+}
 
 .contact_btn{
   border-radius: 69.041px;
@@ -46,7 +50,6 @@ border: 1px solid #F61529;
 transition: all .2s linear;
 }
 .contact_btn:hover{
-  box-shadow: 0px 8px 12px #F61529;
   transition: all .2s linear;
   color: black !important;
 }
